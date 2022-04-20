@@ -1,7 +1,7 @@
 ### Hi there 👋🏾
 
 
-**Who is the real character?** <br>
+**Who is this character?** <br>
 I'm O-drey, an introvert french woman who deals with others madness and her own thanks to sarcasm (if your carburant is coffee, don't juge me).
 My pronouns are _she/her_.
 To give you an idea of my personality, I am the archetype of an Aquarius meme and I swing between Architect (INTJ) and Commander (ENTJ) types.
