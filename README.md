@@ -2,7 +2,7 @@
 
 
 **Who is this character?** <br>
-I'm O-drey, an introvert french woman who deals with others madness and her own thanks to sarcasm (if your carburant is coffee, don't juge me).
+I'm O-drey, an introvert french woman who deals with others madness and her own thanks to sarcasm (if your fuel is coffee, don't juge me).
 My pronouns are _she/her_.
 To give you an idea of my personality, I am the archetype of an Aquarius meme and the Architect (INTJ) type.
 I am currently a learner (yep, we don't use the word _student_ to describe us) at Ada Tech School, a french feminist software development school based in Paris.
