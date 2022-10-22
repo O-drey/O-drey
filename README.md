@@ -11,6 +11,6 @@ I am currently a learner (yep, we don't use the word _student_ to describe us) a
 **What are her interests?** <br>
   ❤️ Broadly speaking, I'm interested in ecodesign and accessibility in the graphical design and web development fields. <br>
   🔭 On the development side, I have a deep keen on APIs and websites. And on the design side, I've fallen for Graphic and UX Design. <br>
-  🌱 For now, I'm learning TypeScript and broadening my knoledge on VueJS. Next step: Golang ! <br>
+  🌱 For now, I'm learning TypeScript and broadening my knowledge on VueJS. Next step: Golang ! <br>
   📌 I'm fond of bubble teas, tattoos, plushes and Webtoons (_1HP Club_, _Purple Hyacinth_, _Boyfriends_, _Lore Olympus_, ...). <br>
   🤯 Fun facts : I've killed two out of three succulents in only one month (the last one is a survivor 🌵), and I succeed to burn everything I cook: so it's barbecue all year long! 😂
